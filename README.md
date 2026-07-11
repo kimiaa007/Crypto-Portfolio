@@ -1,7 +1,6 @@
 # Crypto Portfolio
 
 Track your cryptocurrency investments.
-
 ## Features
 - Portfolio tracking
 - Profit/loss calculation
